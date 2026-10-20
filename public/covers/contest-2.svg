@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Contest 2 cover">
+  <rect width="800" height="500" fill="#f7f3ea"/>
+  <rect x="80" y="80" width="280" height="340" rx="18" fill="#2d2463"/>
+  <rect x="390" y="80" width="280" height="160" rx="18" fill="#3b2a86"/>
+  <rect x="390" y="260" width="280" height="160" rx="18" fill="#2a8a7e"/>
+  <text x="110" y="140" fill="#f7f3ea" font-size="32" font-family="Georgia, serif">Editorial</text>
+</svg>

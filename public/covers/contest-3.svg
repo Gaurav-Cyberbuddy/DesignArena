@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Contest 3 cover">
+  <rect width="800" height="500" fill="#f3f1ea"/>
+  <circle cx="250" cy="250" r="160" fill="#3b2a86"/>
+  <circle cx="520" cy="230" r="120" fill="#2a8a7e"/>
+  <text x="190" y="258" fill="#f3f1ea" font-size="34" font-family="Georgia, serif">Experience</text>
+</svg>

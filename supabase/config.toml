@@ -1,0 +1,15 @@
+# Minimal config so `supabase db push` and the SQL editor remain the source of truth.
+# Project ref is set via `supabase link`.
+
+[auth]
+enabled = true
+
+[auth.email]
+enable_signup = true
+enable_confirmations = false
+otp_length = 8
+otp_expiry = 3600
+
+[storage]
+enabled = true
+file_size_limit = "15MiB"
